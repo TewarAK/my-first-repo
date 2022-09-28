@@ -1,1 +1,2 @@
-why it is not letting me merge
+It should ask me to merge this line, and now letting me merge
+
