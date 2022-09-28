@@ -1,1 +1,2 @@
-It should ask me to merge this line
+It should ask me to merge this line, and now letting me merge
+
